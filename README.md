@@ -1,14 +1,10 @@
 # clara-aot
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+A simple library for the express purposes of demonstrating the AOT abilities of the [clara-rules](https://github.com/cerner/clara-rules) project
 
 ## Usage
 
-FIXME: explanation
+The base command runner expects the first arg to be one of the accepted commands mentioned below
 
     $ java -jar clara-aot-0.1.0-standalone.jar [args]
 
@@ -17,22 +13,13 @@ FIXME: explanation
     * Command: **split-string**    
     * Options: **string-2-split**, **delim**
 
-
-## Examples
-
-...
-
 ### Bugs
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 TODO
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
